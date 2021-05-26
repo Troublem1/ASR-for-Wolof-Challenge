@@ -10,6 +10,14 @@ The goal of this competition is to build an ASR model that will help illiterate 
 - cuda Tesla P100
 - Kaggle
 
+input data should be structured as follows
+
+├── _baamtu-asr
+│   ├── clips
+│   ├── SampleSubmission.csv
+│   ├── Train.csv
+│   └── Test.csv
+
 ## How to run the code
 having the data in te input directory, run Bamtu full ds.ipynb to create for new directory containing varients of the dataset.
 
