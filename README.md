@@ -11,7 +11,7 @@ The goal of this competition is to build an ASR model that will help illiterate 
 - Kaggle
 
 ## How to run the code
-having the data in te input directory, run Bamtu full ds.ipynb to create for new directory containing $ varients of the dataset.
+having the data in te input directory, run Bamtu full ds.ipynb to create for new directory containing varients of the dataset.
 
 Run Bamtu Full ds json.ipynb to generate manifet files train and test for all 4 variants of dataset.
 
