@@ -24,7 +24,7 @@ The goal of this competition is to build an ASR model that will help illiterate 
 ## How to run the code
 having the data in te input directory, run Bamtu full ds.ipynb to create for new directory containing varients of the dataset.
 
-Run Bamtu Full ds json.ipynb to generate manifet files train and test for all 4 variants of dataset.
+Run Bamtu Full ds json.ipynb to generate manifet files train and test for sythetic dataset.
 Run in order
 - fork_of_prep_files_before_major_training_on_00_asr .ipynb to output  trainedmodel2_v9.nemo
 - run 10-retrain-fork-prepfilesbeforemajortraining.ipynb  to output  forktrainedmodel10_v1.nemo
