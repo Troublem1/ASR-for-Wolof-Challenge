@@ -11,7 +11,7 @@ The goal of this competition is to build an ASR model that will help illiterate 
 - Kaggle
 
 input data should be structured as follows
-
+.
 ├── _baamtu-asr
 │   ├── clips
 │   ├── SampleSubmission.csv
