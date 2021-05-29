@@ -1,4 +1,6 @@
-# Wolof_ASR-ZIndi-Challenge
+# AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF
+ > # Can you create an automatic speech recognition model for Wolof for use in public transport?
+
 
 ## BRIEF DESCRIPION
 In a country such as Senegal, where about 50% of the population is illiterate, technologies and applications that are designed to be used by people who can read are not as effective as they could be. In this competition, your aim is to use Automatic Speech Recognition (ASR) techniques in the Wolof language to help illiterate people to interact with apps with just their voice, in a language they can already speak.
